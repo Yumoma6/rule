@@ -5,7 +5,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "机场订阅填到这里，两端引号不要去掉，不要填写到下方链接里去！！"
+    url: "https://45.137.181.129/666/sSksxZuhtBDgD7x?clash=1"
     type: http
     interval: 86400
     health-check:
